@@ -1,0 +1,38 @@
+section {
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 20px;
+}
+
+#Head{
+    padding: 0 50px;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: space-between;
+}
+
+h2{
+    color: #0c0c0c;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    padding: 10px 0;
+}
+
+li{
+    padding: 0 10px;
+}
+
+a{
+    text-decoration: none;
+    color: #0c0c0c;
+}
+
+a:hover{
+    color: #00bcd4;
+}
